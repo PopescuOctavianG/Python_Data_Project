@@ -1,0 +1,10 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\rupeg\\anaconda3\\envs\\python_course\\python.exe",
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+      "args": ["-NoExit", "-Command", "& { . $PROFILE }"]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "PowerShell"
+}
